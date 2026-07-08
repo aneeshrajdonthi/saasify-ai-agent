@@ -18,6 +18,7 @@ backend/database.db
 backend/__pycache__/
 *.db
 *.sqlite
+resumes/
 
 # Node / Frontend
 frontend/node_modules/
