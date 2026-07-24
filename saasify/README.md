@@ -4,6 +4,8 @@
 
 👨‍💻 **Developer Portfolio:** [https://github.com/aneeshrajdonthi/freelanceportfolio](https://github.com/aneeshrajdonthi/freelanceportfolio)
 
+![Developer Portfolio Preview](portfolio-preview.png)
+
 SaaSify is a production-grade, local-friendly, and containerized **AI-Powered Customer Support & Email Automation Agent**. It automates inbox sorting, sentiment analysis, context search, and custom response drafting, providing support teams with an interactive glassmorphic dashboard to inspect AI reasoning.
 
 ![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/preview.png) *(Replace this with a screenshot of your running dashboard)*

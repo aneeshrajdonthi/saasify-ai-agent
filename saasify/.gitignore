@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases & local configs
+backend/.env
+backend/automation.db
+backend/automation.db-journal
+backend/database.db
+backend/__pycache__/
+*.db
+*.sqlite
+resumes/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.eslintcache
+
+# Logs
+*.log
+.system_generated/
+scratch/
+
+# OS Files
+.DS_Store
+Thumbs.db
