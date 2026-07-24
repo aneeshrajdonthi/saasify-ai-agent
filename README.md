@@ -1,8 +1,14 @@
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Vercel-f59e0b.svg?style=for-the-badge&logo=vercel)](https://freelanceportfolio-teal.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Portfolio-aneeshrajdonthi-06b6d4.svg?style=for-the-badge&logo=github)](https://github.com/aneeshrajdonthi/freelanceportfolio)
+
 # SaaSify: AI Support Agent & Business Automation Dashboard
 
-SaaSify is a production-grade, local-friendly, and containerized **AI-Powered Customer Support & Email Automation Agent**. It automates inbox sorting, sentiment analysis, context search, and custom response drafting, providing support teams with an interactive glassmorphic dashboard to inspect AI reasoning.
+🌐 **Live Developer Portfolio:** [https://freelanceportfolio-teal.vercel.app/](https://freelanceportfolio-teal.vercel.app/)  
+👨‍💻 **GitHub Portfolio Repo:** [https://github.com/aneeshrajdonthi/freelanceportfolio](https://github.com/aneeshrajdonthi/freelanceportfolio)
 
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/preview.png) *(Replace this with a screenshot of your running dashboard)*
+![Developer Portfolio Preview](https://raw.githubusercontent.com/aneeshrajdonthi/saasify-ai-agent/main/portfolio-preview.png)
+
+SaaSify is a production-grade, local-friendly, and containerized **AI-Powered Customer Support & Email Automation Agent**. It automates inbox sorting, sentiment analysis, context search, and custom response drafting, providing support teams with an interactive glassmorphic dashboard to inspect AI reasoning.
 
 ---
 
@@ -33,7 +39,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [Python 3.10+](https://www
 
 #### 1. Clone the project and navigate to the directory
 ```bash
-git clone https://github.com/your-username/saasify-ai-agent.git
+git clone https://github.com/aneeshrajdonthi/saasify-ai-agent.git
 cd saasify-ai-agent
 ```
 
